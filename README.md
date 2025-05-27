@@ -24,13 +24,12 @@ Please ⭐ star the repo if you find it helpful!
 
 <!-- Add your screenshots to the /ss folder and use this layout -->
 
-<!-- 
+
 | App UI |
 |--------|
 | <img src="screenshots/podcasts.png" width="300"> |
 | <img src="screenshots/collections.png" width="300"> |
 | <img src="screenshots/player.png" width="300"> |
--->
 
 ## 🔌 Technologies Used
 
